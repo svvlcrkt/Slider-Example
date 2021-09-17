@@ -5,7 +5,20 @@
 Now I am learning <b>JavaScript</b> and I am trying to make a project with the help of the video. This video is located under "Used Resources".
 This is my 14th project in this series.  In addition, I am learning <b>jQuery</b>. I am uploading both <b>JavaScript</b> and <b>jQuery</b> files to the project files.*<br><br>
 *<b>Finally;</b>
-you can also acces my [1st](https://github.com/svvlcrkt/Simple-Color-Flipper), [2nd](https://github.com/svvlcrkt/Counter-Example), [3rd](https://github.com/svvlcrkt/Reviews-Example), [4th](https://github.com/svvlcrkt/Responsive-Navbar-Example), [5th](https://github.com/svvlcrkt/Sidebar-Example), [6th](https://github.com/svvlcrkt/Modal-Example), [7th](https://github.com/svvlcrkt/Questions-and-answers), [8th](https://github.com/svvlcrkt/Menu-Example), [9th](https://github.com/svvlcrkt/Video-Example), [10th](https://github.com/svvlcrkt/Scroll-Example), [11th](https://github.com/svvlcrkt/Tabs-Example), [12th](https://github.com/svvlcrkt/Countdown-Example) and [13th](https://github.com/svvlcrkt/Lorem-Ipsum-Example) project files*.
+you can also acces my other project files:*
+* *[Simple-Color-Flipper](https://github.com/svvlcrkt/Simple-Color-Flipper)
+* *[Counter-Example](https://github.com/svvlcrkt/Counter-Example)
+* *[Reviews-Example](https://github.com/svvlcrkt/Reviews-Example)
+* *[Responsive-Navbar-Example](https://github.com/svvlcrkt/Responsive-Navbar-Example)
+* *[Sidebar-Example](https://github.com/svvlcrkt/Sidebar-Example)
+* *[Modal-Example](https://github.com/svvlcrkt/Modal-Example)
+* *[Questions-and-answers](https://github.com/svvlcrkt/Questions-and-answers) 
+* *[Menu-Example](https://github.com/svvlcrkt/Menu-Example)*
+* *[Video-Example](https://github.com/svvlcrkt/Video-Example)*
+* *[Scroll-Example](https://github.com/svvlcrkt/Scroll-Example)*
+* *[Tabs-Example](https://github.com/svvlcrkt/Tabs-Example)* 
+* *[Countdown-Example](https://github.com/svvlcrkt/Countdown-Example)* 
+* *[Lorem-Ipsum-Example](https://github.com/svvlcrkt/Lorem-Ipsum-Example)*
 
 ### *NOTE:*
 *There is an additional myJs folder in this project. In the JS file in this folder, progress and rewind operations are provided by assigning properties to a single div.*
